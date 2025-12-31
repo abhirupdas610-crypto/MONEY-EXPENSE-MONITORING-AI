@@ -1,0 +1,7 @@
+{
+  "name": "SpendWise AI",
+  "description": "A smart expense tracker with AI bill scanning, weekly analytics, and image-based expense editing using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
